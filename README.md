@@ -33,7 +33,7 @@ Quantitative results (7-DoF alignment) on selected KITTI sequences:
 | 07       | 8.20             | 6.44                | 19.53   | 0.102   | 0.214   |
 | 10       | 8.65             | 3.45                | 14.33   | 0.117   | 0.241   |
 
-Evaluation was performed using [kitti-odom-eval](https://github.com/michaelklinghammer/kitti-odom-eval) with 7-DoF alignment.
+Evaluation was performed using [kitti-odom-eval](https://github.com/Huangying-Zhan/kitti-odom-eval)) with 7-DoF alignment.
 
 ---
 
