@@ -2,9 +2,8 @@
 
 [![arXiv](https://img.shields.io/badge/cs.CV-arXiv%3A2305.06121-B31B1B.svg)](https://arxiv.org/abs/2305.06121)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/aofrancani/TSformer-VO/blob/main/LICENSE)
-
-Official repository of "[Transformer-based model for monocular visual odometry: a video understanding approach](https://arxiv.org/abs/2305.06121)"  
-Original model by [aofrancani/TSformer-VO](https://github.com/aofrancani/TSformer-VO)
+ 
+This project is a **fork of [aofrancani/TSformer-VO](https://github.com/aofrancani/TSformer-VO)** with custom modifications based on the SWFormer-VO architecture.
 
 ---
 
