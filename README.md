@@ -33,7 +33,7 @@ Quantitative results (7-DoF alignment) on selected KITTI sequences:
 | 07       | 8.20             | 6.44                | 19.53   | 0.102   | 0.214   |
 | 10       | 8.65             | 3.45                | 14.33   | 0.117   | 0.241   |
 
-Evaluation was performed using [kitti-odom-eval](https://github.com/Huangying-Zhan/kitti-odom-eval)) with 7-DoF alignment.
+Evaluation was performed using [kitti-odom-eval](https://github.com/Huangying-Zhan/kitti-odom-eval) with 7-DoF alignment.
 
 ---
 
@@ -131,16 +131,9 @@ The evaluation is done with the [KITTI odometry evaluation toolbox](https://gith
 
 
 ## Citation
-Please cite our paper you find this research useful in your work:
 
-```bibtex
-@article{Francani2023,
-  title={Transformer-based model for monocular visual odometry: a video understanding approach},
-  author={Fran{\c{c}}ani, Andr{\'e} O and Maximo, Marcos ROA},
-  journal={arXiv preprint arXiv:2305.06121},
-  year={2023}
-}
-```
+If you find this implementation helpful in your work, please consider referencing this repository.  
+A citation entry will be provided if a related publication becomes available.
 
 ## References
 
