@@ -6,7 +6,7 @@ This project is a **fork of [aofrancani/TSformer-VO](https://github.com/aofranca
 
 ---
 
-## This Fork: Swin-based Multimodal Extension
+## Overview
 
 This project integrates ideas from TSformer-VO and SWFormer-VO,  
 introducing a Swin-based multimodal VO framework with the following modifications:
