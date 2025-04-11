@@ -39,7 +39,7 @@ Evaluation was performed using [kitti-odom-eval](https://github.com/Huangying-Zh
 
 ---
 
-## Abstract (for this extension)
+## Abstract
 
 *This work builds upon TSformer-VO by incorporating early-stage fusion of RGB and depth inputs via the Video Swin Transformer. We explore the impact of a hierarchical attention-based backbone in visual odometry tasks, treating the problem as a spatiotemporal sequence understanding challenge. Our model demonstrates improved accuracy on the KITTI dataset, highlighting the benefits of Swin-based feature extraction in multimodal settings.*
 
