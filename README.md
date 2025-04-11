@@ -2,7 +2,9 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/aofrancani/TSformer-VO/blob/main/LICENSE)
  
-This project is a **fork of [aofrancani/TSformer-VO](https://github.com/aofrancani/TSformer-VO)** redesigned with a Video Swin Transformer backbone and multimodal RGB-Depth fusion. Inspired by architectural insights from SWFormer-VO.
+
+This project is based on **[aofrancani/TSformer-VO](https://github.com/aofrancani/TSformer-VO)**, with architectural modifications inspired by SWFormer-VO.
+We replace TimeSformer with a Video Swin Transformer (stages 1–3) and introduce early fusion of RGB and pseudo-depth inputs.
 
 ---
 
