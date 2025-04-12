@@ -17,7 +17,7 @@ introducing a Swin-based multimodal VO framework with the following modification
 - Introducing **early fusion of RGB and Depth embeddings** before feature encoding.
 - Retaining the temporal structure of the original architecture while improving its adaptability to multimodal inputs.
 - Evaluating on **KITTI Odometry**, showing improvements over the original model in three key metrics:  
-  - **↓11.5%** Absolute Trajectory Error (ATE)  
+  - **↓8.76%** Absolute Trajectory Error (ATE)  
   - **↓2.54%** Relative Pose Error (RPE)
 
 ### KITTI Odometry Evaluation
