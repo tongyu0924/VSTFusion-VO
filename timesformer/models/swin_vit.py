@@ -679,7 +679,6 @@ class SwinTransformer3D(nn.Module):
         x = self.pos_drop(x)
 
         for num, layer in enumerate(self.layers[:3]):
-            print(num)
             x = layer(x.contiguous())
             
         print(x.shape)
