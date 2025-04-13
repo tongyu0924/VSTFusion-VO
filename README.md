@@ -1,4 +1,4 @@
-# SwinFusion-VO: A Monocular Visual Odometry via Swin-based Multimodal Fusion
+# VST-Fusion: Monocular Visual Odometry via Video Swin Transformer Multimodal Fusion
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/aofrancani/TSformer-VO/blob/main/LICENSE)
  
