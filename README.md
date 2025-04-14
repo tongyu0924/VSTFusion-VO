@@ -16,7 +16,7 @@ introducing a Swin-based multimodal VO framework with the following modification
 - Replacing the original Timesformer backbone with **Video Swin Transformer** (stages 1–3).
 - Introducing **early fusion of RGB and Depth embeddings** before feature encoding.
 - Retaining the temporal structure of the original architecture while improving its adaptability to multimodal inputs.
-- Evaluating on **KITTI Odometry**, showing improvements over the original model in three key metrics:  
+- Evaluated on the **KITTI Odometry** benchmark, demonstrating improvements over **SWFormer-VO** (from an IEEE 2024 paper) in three key metrics:  
   - **↓8.76%** Absolute Trajectory Error (ATE)  
   - **↓2.54%** Relative Pose Error (RPE)
 
