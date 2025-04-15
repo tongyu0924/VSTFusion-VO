@@ -42,8 +42,7 @@ Evaluation was performed using [kitti-odom-eval](https://github.com/Huangying-Zh
 ---
 
 ## Abstract
-
-*This work builds upon TSformer-VO by incorporating early-stage fusion of RGB and depth inputs via the Video Swin Transformer. We explore the impact of a hierarchical attention-based backbone in visual odometry tasks, treating the problem as a spatiotemporal sequence understanding challenge. Our model demonstrates improved accuracy on the KITTI dataset, highlighting the benefits of Swin-based feature extraction in multimodal settings.*
+*VSTFusion-VO is a Swin-based monocular visual odometry framework that integrates RGB and depth information through early-stage fusion. The model leverages a Video Swin Transformer as its temporal backbone, enabling hierarchical spatiotemporal representation learning for accurate 6-DoF pose estimation. By embedding geometric cues from pseudo-depth at the input level, VSTFusion-VO achieves improved results on the KITTI benchmark, demonstrating the effectiveness of multimodal fusion and video-native transformer design in visual motion estimation.*
 
 
 <img src="VTSfusion-VO.png" width=1000>
