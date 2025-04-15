@@ -10,15 +10,18 @@ We replace TimeSformer with a Video Swin Transformer (stages 1–3) and introduc
 
 ## Overview
 
-This project integrates ideas from TSformer-VO and SWFormer-VO,  
-introducing a Swin-based multimodal VO framework with the following modifications:
+This project presents **VSTFusion-VO**, a Swin Transformer-based monocular visual odometry framework designed for multimodal input.  
+By leveraging recent advances in spatiotemporal modeling and depth-aware fusion, our method achieves robust 6-DoF pose estimation from monocular RGB video and pseudo-depth maps.
 
-- Replacing the original Timesformer backbone with **Video Swin Transformer** (stages 1–3).
-- Introducing **early fusion of RGB and Depth embeddings** before feature encoding.
-- Retaining the temporal structure of the original architecture while improving its adaptability to multimodal inputs.
-- Evaluated on the **KITTI Odometry** benchmark, demonstrating improvements over **SWFormer-VO** (from an IEEE 2024 paper) in three key metrics:  
+Key design features include:
+
+- A **Video Swin Transformer** backbone (stages 1–3) tailored for long-range temporal modeling.
+- **Early fusion of RGB and Depth embeddings** before temporal encoding to enhance geometric consistency.
+- Seamless integration into a temporal pose estimation pipeline with transformer-based architecture.
+- Evaluated on the **KITTI Odometry** benchmark, showing consistent improvements over transformer-based baselines, including:
   - **↓8.76%** Absolute Trajectory Error (ATE)  
   - **↓2.54%** Relative Pose Error (RPE)
+
 
 ### KITTI Odometry Evaluation
 
