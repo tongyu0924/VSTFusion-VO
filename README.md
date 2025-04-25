@@ -5,6 +5,8 @@
 
 This project is based on **[aofrancani/TSformer-VO](https://github.com/aofrancani/TSformer-VO)**, with architectural modifications inspired by SWFormer-VO.
 We replace TimeSformer with a Video Swin Transformer (stages 1–3) and introduce early fusion of RGB and pseudo-depth inputs.
+> ⚠️ This repository currently provides **inference and evaluation code only**.  
+> Training code  will be released after paper acceptance.
 
 ---
 
