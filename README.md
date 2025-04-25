@@ -21,9 +21,9 @@ Key design features include:
 - **Early fusion of RGB and Depth embeddings** before temporal encoding to enhance geometric consistency.
 - Seamless integration into a temporal pose estimation pipeline with transformer-based architecture.
 - Evaluated on the **KITTI Odometry** benchmark, showing consistent improvements over transformer-based baselines, including:
+  - **↓3.59%** Translational Error (%)
   - **↓8.76%** Absolute Trajectory Error (ATE)  
   - **↓2.54%** Relative Pose Error (RPE)  
-  - **↓3.59%** Translational Error (%)
 
 
 ### KITTI Odometry Evaluation
