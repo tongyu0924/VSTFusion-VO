@@ -108,12 +108,17 @@ pip install -r requirements.txt
 
 **PS**: So far we are changing the settings and hyperparameters directly in the variables and dictionaries. As further work, we will use pre-set configurations with the `argparse` module to make a user-friendly interface.
 
-### 4.1. Training
+<!--
+### 4.1. Training (Coming Soon)
 
 In `train.py`:
 - Manually set configuration in `args` (python dict);
 - Manually set the model hyperparameters in `model_params` (python dict);
 - Save and run the code `train.py`.
+
+⚠️ Training code is currently unavailable and will be released after acceptance.
+-->
+
 
 ### 4.2. Inference
 
