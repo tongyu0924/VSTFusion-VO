@@ -13,8 +13,7 @@ We replace TimeSformer with a Video Swin Transformer (stages 1–3) and introduc
 ## Overview
 
 This project presents **VSTFusion-VO**, a monocular visual odometry framework based on two key design elements:  
-(1) early fusion of RGB and pseudo-depth inputs through 3D patch embedding, enabling geometric reasoning without external depth sensors; and  
-(2) a video-native transformer backbone (Video Swin Transformer) with hierarchical 3D spatiotemporal attention for modeling motion dynamics.  
+(1) early fusion of RGB and pseudo-depth inputs through 3D patch embedding, enabling geometric reasoning without external depth sensors; and (2) a video-native transformer backbone (Video Swin Transformer) with hierarchical 3D spatiotemporal attention for modeling motion dynamics.  
 Together, these components enable robust 6-DoF pose estimation from monocular video and improve resilience to scale ambiguity and texture sparsity.
 
 ### Key Features
