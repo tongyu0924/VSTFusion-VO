@@ -25,13 +25,9 @@ Together, this design enables robust 6-DoF pose estimation from monocular video 
 - End-to-end pose regression pipeline directly predicting 6-DoF camera poses.
 - Evaluated on the KITTI Odometry benchmark with consistent improvements over state-of-the-art monocular VO methods, including **SWFormer-VO**.  
 Compared to SWFormer-VO, the method achieves:
- - **↓3.59%** Translational Error (relative improvement)  
- - **↓8.76%** Absolute Trajectory Error (ATE)  
- - **↓2.54%** Relative Pose Error (RPE)
-
-
-These results position VSTFusion-VO as a new state-of-the-art approach for monocular VO on KITTI.
-
+  - **↓3.59%** Translational Error (relative improvement)  
+  - **↓8.76%** Absolute Trajectory Error (ATE)  
+  - **↓2.54%** Relative Pose Error (RPE)
 
 ### KITTI Odometry Evaluation
 
