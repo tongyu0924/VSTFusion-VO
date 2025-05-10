@@ -23,8 +23,7 @@ Together, this design enables robust 6-DoF pose estimation from monocular video 
 - **3D patch embedding** of RGB and pseudo-depth sequences to preserve temporal continuity and encode space-time tokens from the input stage.
 - **Fusion of RGB and pseudo-depth embeddings** at an early stage to enhance geometric consistency, without relying on ground-truth depth measurements or additional sensor input.
 - End-to-end pose regression pipeline directly predicting 6-DoF camera poses.
-- Evaluated on the KITTI Odometry benchmark with consistent improvements over state-of-the-art monocular VO methods, including **SWFormer-VO**.  
-Compared to SWFormer-VO, the method achieves:
+- Evaluated on the KITTI Odometry benchmark with consistent improvements over state-of-the-art monocular VO methods, and compared to **SWFormer-VO**, the method achieves:
   - **↓3.59%** Translational Error (relative improvement)  
   - **↓8.76%** Absolute Trajectory Error (ATE)  
   - **↓2.54%** Relative Pose Error (RPE)
