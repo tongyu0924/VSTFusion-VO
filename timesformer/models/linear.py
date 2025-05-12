@@ -1,4 +1,4 @@
-""" Linear layer (alternate definition).
+""" Linear layer (alternate definition)
 """
 import torch
 import torch.nn.functional as F
