@@ -1,4 +1,4 @@
-# Copyright 2020 Ross Wightma
+# Copyright 2020 Ross Wightman
 
 from collections import OrderedDict, defaultdict
 from copy import deepcopy
