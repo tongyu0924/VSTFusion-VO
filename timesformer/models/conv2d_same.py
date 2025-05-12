@@ -1,4 +1,4 @@
-# Copyright 2020 Ross Wightma
+# Copyright 2020 Ross Wightman
 # Conv2d w/ Same Padding
 
 import torch
