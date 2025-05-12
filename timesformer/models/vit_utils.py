@@ -1,4 +1,4 @@
-# Copyright 2020 Ross Wightman1
+# Copyright 2020 Ross Wightman
 # Various utility functions
 
 import torch
