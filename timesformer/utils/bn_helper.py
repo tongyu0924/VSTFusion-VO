@@ -1,4 +1,4 @@
-# Copyright (c) Facebook, Inc. and its affiliates. All Rights Reserved.m
+# Copyright (c) Facebook, Inc. and its affiliates. All Rights Reserved.
 
 """bn helper."""
 
