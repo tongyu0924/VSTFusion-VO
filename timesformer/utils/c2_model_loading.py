@@ -1,4 +1,4 @@
-# Copyright (c) Facebook, Inc. and its affiliates. All Rights Reserved.m
+# Copyright (c) Facebook, Inc. and its affiliates. All Rights Reserved.
 
 """Caffe2 to PyTorch checkpoint name converting utility."""
 
