@@ -1,4 +1,4 @@
-# Copyright (c) Facebook, Inc. and its affiliates. All Rights Reserved.k
+# Copyright (c) Facebook, Inc. and its affiliates. All Rights Reserved.
 
 import json
 import logging
