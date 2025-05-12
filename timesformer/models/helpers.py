@@ -1,4 +1,4 @@
-# Copyright (c) Facebook, Inc. and its affiliates. All Rights Reserved
+# Copyright (c) Facebook, Inc. and its affiliates. All Rights Reserved.
 # Copyright 2020 Ross Wightman
 # Modified model creation / weight loading / state_dict helpers
 
