@@ -1,4 +1,4 @@
-# Copyright (c) Facebook, Inc. and its affiliates. All Rights Reservedm
+# Copyright (c) Facebook, Inc. and its affiliates. All Rights Reserved
 """
 Functions for benchmarks.
 """
