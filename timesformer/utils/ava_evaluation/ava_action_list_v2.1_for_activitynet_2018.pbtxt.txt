@@ -1,4 +1,4 @@
-item {0
+item {
   name: "bend/bow (at the waist)"
   id: 1
 }
