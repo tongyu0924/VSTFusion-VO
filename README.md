@@ -1,9 +1,8 @@
 # VSTFusion-VO: Monocular Visual Odometry with Video Swin Transformer Multimodal Fusion
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/aofrancani/TSformer-VO/blob/main/LICENSE)
- 
 
-This project is based on **[aofrancani/TSformer-VO](https://github.com/aofrancani/TSformer-VO)**, with architectural modifications inspired by SWFormer-VO.
+This project is based on **[aofrancani/TSformer-VO](https://github.com/aofrancani/TSformer-VO)** with significant architectural modifications.
 We replace TimeSformer with a Video Swin Transformer (stages 1–3) and introduce early fusion of RGB and pseudo-depth inputs.
 > ⚠️ This repository currently provides **inference and evaluation code only**.  
 > Training code (e.g., training script, optimizer, and hyperparameter configs) will be released after paper acceptance.
