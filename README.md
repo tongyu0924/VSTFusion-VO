@@ -108,8 +108,6 @@ pip install -r requirements.txt
 
 ## 4. Usage
 
-**PS**: So far we are changing the settings and hyperparameters directly in the variables and dictionaries. As further work, we will use pre-set configurations with the `argparse` module to make a user-friendly interface.
-
 ### 4.1. Training
 
 ⚠️ Training instructions will be made available after paper acceptance.
