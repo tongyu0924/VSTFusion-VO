@@ -4,8 +4,10 @@
 
 This project is based on **[aofrancani/TSformer-VO](https://github.com/aofrancani/TSformer-VO)** with significant architectural modifications.
 We replace TimeSformer with a Video Swin Transformer (stages 1–3) and introduce early fusion of RGB and pseudo-depth inputs.
+<!--
 > ⚠️ This repository currently provides **inference and evaluation code only**.  
 > Training code (e.g., training script, optimizer, and hyperparameter configs) will be released after paper acceptance.
+-->
 
 ---
 
@@ -109,16 +111,13 @@ pip install -r requirements.txt
 ## 4. Usage
 
 ### 4.1. Training
-
-⚠️ Training instructions will be made available after paper acceptance.
-
 <!--
+⚠️ Training instructions will be made available after paper acceptance.
+-->
 In `train.py`:
 - Manually set configuration in `args` (python dict);
 - Manually set the model hyperparameters in `model_params` (python dict);
 - Save and run the code `train.py`.
--->
-
 
 ### 4.2. Inference
 
